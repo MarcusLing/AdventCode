@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/adventcode
+adventcode.so
+adventcode.dylib
+adventcode.dll
+adventcode.a
+adventcode.lib
+adventcode-test-*
+*.exe
+*.o
+*.obj
+*.lst
+.idea/
+out/_

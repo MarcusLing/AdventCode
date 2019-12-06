@@ -1,0 +1,8 @@
+{
+	"authors": [
+		"ling"
+	],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "adventcode"
+}
